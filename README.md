@@ -1,21 +1,309 @@
-# 💫 About Me:
-🔭 Working on: Make skill better everyday<br>👯 Collaborating on: Web dev projects<br>🌱 Learning: DSA & AI<br>💬 Ask me about: C, Python, JS<br>⚡ Fun fact: I learn faster by building real projects<br>My Portfolio :- portfolio-one-liard-79.vercel.app
+<!-- =======================================================
+                     DEV PATEL GITHUB PROFILE
+======================================================= -->
 
+<div align="center">
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dev_patel3746) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dev-patel-b54090325) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:devapatel09092006@gmail.com)  
+<img src="Assets/output-small.gif" width="100%" alt="Dev Patel Banner"/>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=devpatel-1&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=devpatel-1&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=devpatel-1&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+# Hi there, I'm Dev Patel 👋
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=devpatel-1&limit=5&theme=dark&combine_all_yearly_contributions=true)
+### 🚀 Full Stack Developer • Backend Enthusiast • AI Explorer
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Computer+Engineering+Student;Full+Stack+Developer;Backend+%7C+Python+%7C+Django+%7C+FastAPI;Building+Modern+Web+Applications;Currently+Learning+AI+%26+System+Design;Always+Learning+Something+New+%F0%9F%9A%80" />
+
+<p>
+Building scalable web applications, APIs and AI-powered solutions while continuously exploring modern software engineering.
+</p>
+
+<p>
+<a href="https://github.com/devpatel-1">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/dev-patel-b54090325">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/dev_patel3746">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://portfolio-one-liard-79.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="mailto:devapatel09092006@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=devpatel-1&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 👨‍💻 About Me
+
+<img align="right" width="340" src="Assets/coding.gif"/>
+
+🚀 Passionate about building real-world software that solves meaningful problems.
+
+🎓 Computer Engineering student focused on backend development, scalable systems, and artificial intelligence.
+
+💡 I enjoy turning ideas into production-ready applications while continuously improving my development skills.
+
+---
+
+## 🚀 Currently Working On
+
+- 🌐 Full Stack Web Applications
+- 🤖 AI-powered applications
+- 💬 Real-time Chat Systems
+- ⚡ REST APIs with Django & FastAPI
+- 🔥 Personal Projects & Open Source
+
+---
+
+## 🌱 Currently Learning
+
+- 🧠 Large Language Models (LLMs)
+- 📝 Prompt Engineering
+- 🐳 Docker
+- ☁️ AWS Cloud
+- 🏗️ System Design
+- 🔍 Vector Databases
+- ⚡ Redis
+- 🐘 PostgreSQL
+
+---
+
+## 💬 Ask Me About
+
+```text
+🐍 Python
+⚡ FastAPI
+🎯 Django
+⚛️ React
+🟢 Node.js
+🍃 MongoDB
+🔥 Firebase
+💻 JavaScript
+🌐 REST APIs
+```
+
+---
+
+## ⚡ Fun Fact
+
+> **I learn fastest by building real-world projects instead of only watching tutorials.**
+
+---
+
+# 🛠️ Tech Stack
+
+## 🚀 Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,django,fastapi,nodejs,express"/>
+</p>
+
+---
+
+## 🎨 Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,js,html,css,tailwind"/>
+</p>
+
+---
+
+## ☁️ Cloud & DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,docker,firebase,vercel,git,github"/>
+</p>
+
+---
+
+## 🗄️ Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite,redis"/>
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vector_DB-7B61FF?style=for-the-badge"/>
+</p>
+
+---
+
+## 🤖 AI / Machine Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=python"/>
+</p>
+
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Claude_AI-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Prompt_Engineering-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/System_Design-0A66C2?style=for-the-badge"/>
+
+---
+
+## 🧰 Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=vscode,postman,linux,bash,npm"/>
+</p>
+
+---
+
+<div align="center">
+
+### 💡 *"Building today, learning forever, improving every single day."*
+
+</div>
+
+---
+<!-- =======================================================
+                    FEATURED PROJECTS
+======================================================= -->
+
+# 🚀 Featured Projects
+
+<div align="center">
+
+| Project | Description | Tech |
+|:--------:|:-----------|:-----|
+| 💬 **GatherIn** | Real-time chat application with authentication, responsive UI and modern messaging experience. | React • Firebase • JavaScript |
+| 🌦️ **Weather App** | Beautiful weather forecasting application with real-time API integration. | JavaScript • HTML • CSS |
+| ✅ **Task Manager API** | Secure RESTful API with JWT authentication, CRUD operations and MongoDB integration. | Node.js • Express • MongoDB |
+| 🎯 **Portfolio Website** | Personal portfolio showcasing projects, skills and achievements. | React • Vercel |
+| 🤖 **AI Experiments** | Exploring LLMs, Prompt Engineering and AI-powered applications. | Python • OpenAI |
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="Assets/coding.gif" width="90%" alt="Coding"/>
+
+</div>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=devpatel-1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=devpatel-1&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devpatel-1&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=devpatel-1&theme=tokyonight&no-frame=true&row=1&column=6"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=devpatel-1&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/devpatel-1/devpatel-1/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+> **⚠️ Note:** The snake animation requires a GitHub Action workflow. It won't appear until you add the workflow. I can help you set it up in 2 minutes.
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/devpatel-1">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://linkedin.com/in/dev-patel-b54090325">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://instagram.com/dev_patel3746">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"/>
+</a>
+
+<a href="https://portfolio-one-liard-79.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
+</a>
+
+<a href="mailto:devapatel09092006@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+</div>
+
+---
+
+# 👀 Profile Views
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=devpatel-1&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+
+</div>
+
+---
+
+# 💭 Random Dev Quote
+
+<div align="center">
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+---
+
+<div align="center">
+
+## ⭐ Thanks for visiting my profile!
+
+### 🚀 Building • Learning • Innovating
+
+*"Every great developer you know once struggled with the same concepts you're learning today. Keep building."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00D4FF&height=120&section=footer"/>
+
+</div>
