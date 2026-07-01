@@ -187,13 +187,6 @@ Building scalable web applications, APIs and AI-powered solutions while continuo
 </div>
 
 ---
-
-<div align="center">
-
-<img src="Assets/coding.gif" width="90%" alt="Coding"/>
-
-</div>
-
 ---
 
 # 📊 GitHub Analytics
