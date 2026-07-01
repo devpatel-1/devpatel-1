@@ -187,35 +187,6 @@ Building scalable web applications, APIs and AI-powered solutions while continuo
 </div>
 
 ---
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=devpatel-1&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-
-<img width="49%" src="https://streak-stats.demolab.com?user=devpatel-1&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devpatel-1&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=devpatel-1&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15"/>
-
-</div>
 
 ---
 
