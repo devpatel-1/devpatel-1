@@ -208,8 +208,6 @@ Building scalable web applications, APIs and AI-powered solutions while continuo
 
 </div>
 
-> **⚠️ Note:** The snake animation requires a GitHub Action workflow. It won't appear until you add the workflow. I can help you set it up in 2 minutes.
-
 ---
 
 # 🌐 Connect With Me
